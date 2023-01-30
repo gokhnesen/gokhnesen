@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [ECommerceApp](https://github.com/gokhnesen/ECommerce)
 
-- 🌱 I’m currently learning **.Net Core, Angular**
+- 🌱 I’m currently learning **.Net, Angular**
 
 - 📫 How to reach me **gokhan_esen@hotmail.com.tr**
 
