@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokhnesen&label=Profile%20views&color=0e75b6&style=flat" alt="gokhnesen" /> </p>
 
-- 🔭 I’m currently working on [ECommerceApp](https://github.com/gokhnesen/ECommerce)
-
 - 📫 How to reach me **gokhan_esen@hotmail.com.tr**
 
 <h3 align="left">Connect with me:</h3>
