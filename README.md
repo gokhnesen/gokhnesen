@@ -1,3 +1,11 @@
+
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/batuhankucukyildiz/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 <h1 align="center">Hi 👋, I'm Gökhan</h1>
 <h3 align="center">A Computer Engineer Who Loves Coding</h3>
 
